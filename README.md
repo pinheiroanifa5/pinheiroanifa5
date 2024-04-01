@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinheiroanifa5" alt="pinheiroanifa5" /></a> </p>
 
-- 🌱 I’m currently learning **React, Android, CyberSegurança**
+- 🌱 I’m currently learning **React, Android, Nestjs, Redux**
 
 - 📫 How to reach me **anifapinheiro5@gmail.com**
 
