@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Olá!+Sou+Anifa+Pinheiro;Software+Developer;Frontend+%26+Backend;Building+ideas+into+digital+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FF7AC6&center=true&vCenter=true&width=700&lines=Olá!+Sou+Anifa+Pinheiro;Software+Developer;Frontend+%26+Backend;Building+beautiful+digital+experiences" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,14 +12,15 @@
 </p>
 
 <p align="center">
-  <em>Developer crafting clean, modern, and impactful digital experiences.</em>
+  <em>Developer crafting modern, elegant, and meaningful digital experiences.</em>
 </p>
 
 ---
 
 ### About me
-I’m a passionate software developer with a strong interest in building elegant and functional solutions through code.  
-I enjoy working across frontend and backend, learning new technologies, and turning ideas into products that people can actually use.
+
+I’m a passionate software developer with a strong interest in creating beautiful, functional, and impactful digital solutions.  
+I enjoy building user-friendly interfaces, solving real problems with code, and continuously learning new technologies to improve my craft.
 
 ### Core strengths
 - 💡 Product thinking and problem solving
@@ -63,7 +64,7 @@ I enjoy working across frontend and backend, learning new technologies, and turn
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinheiroanifa5&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### Let's connect
+### Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/anifa-pinheiro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -77,5 +78,5 @@ I enjoy working across frontend and backend, learning new technologies, and turn
 </p>
 
 <p align="center">
-  <i>Building smarter ideas with code.</i>
+  <i>Building smarter ideas with code ✨</i>
 </p>
