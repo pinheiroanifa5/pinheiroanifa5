@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FF7AC6&center=true&vCenter=true&width=700&lines=Olá!+Sou+Anifa+Pinheiro;Software+Developer;Frontend+%26+Backend;Building+beautiful+digital+experiences" alt="Typing SVG" />
-</h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
